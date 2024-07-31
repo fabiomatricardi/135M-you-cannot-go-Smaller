@@ -45,6 +45,9 @@ streamlit run st-SmoL135M-llamafile.py
 ```
 
 
+<img src='https://github.com/fabiomatricardi/135M-you-cannot-go-Smaller/raw/main/smoLM135M.gif' width=800>
+
+
 
 
    
