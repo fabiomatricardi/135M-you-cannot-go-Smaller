@@ -1,3 +1,5 @@
+<img src='https://huggingface.co/datasets/HuggingFaceTB/images/resolve/main/banner_smol.png' width=800>
+
 # 135M-you-cannot-go-Smaller
 Repo of the code from the Medium article 135M: you cannot go Smaller
 
